@@ -1,0 +1,53 @@
+gnss_poll_main.c.spresense.examples.gnss.o: gnss_poll_main.c \
+ /spresense/nuttx/include/nuttx/config.h \
+ /spresense/nuttx/include/sys/types.h \
+ /spresense/nuttx/include/nuttx/compiler.h \
+ /spresense/nuttx/include/stdint.h /spresense/nuttx/include/arch/types.h \
+ /spresense/nuttx/include/arch/inttypes.h \
+ /spresense/nuttx/include/limits.h /spresense/nuttx/include/arch/limits.h \
+ /spresense/nuttx/include/sys/ioctl.h \
+ /spresense/nuttx/include/nuttx/fs/ioctl.h \
+ /spresense/nuttx/include/nuttx/serial/tioctl.h \
+ /spresense/nuttx/include/nuttx/net/ioctl.h \
+ /spresense/nuttx/include/sys/time.h /spresense/nuttx/include/time.h \
+ /spresense/nuttx/include/sys/select.h /spresense/nuttx/include/signal.h \
+ /spresense/nuttx/include/string.h /spresense/nuttx/include/stddef.h \
+ /spresense/nuttx/include/alloca.h /spresense/nuttx/include/errno.h \
+ /spresense/nuttx/include/stdio.h \
+ /spresenseenv/usr/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+ /spresense/nuttx/include/nuttx/fs/fs.h \
+ /spresense/nuttx/include/stdbool.h /spresense/nuttx/include/dirent.h \
+ /spresense/nuttx/include/nuttx/mutex.h /spresense/nuttx/include/assert.h \
+ /spresense/nuttx/include/nuttx/semaphore.h \
+ /spresense/nuttx/include/semaphore.h \
+ /spresense/nuttx/include/nuttx/queue.h \
+ /spresense/nuttx/include/nuttx/clock.h \
+ /spresense/nuttx/include/nuttx/mm/map.h \
+ /spresense/nuttx/include/nuttx/mm/gran.h \
+ /spresense/nuttx/include/nuttx/lib/lib.h \
+ /spresense/nuttx/include/nuttx/kmalloc.h \
+ /spresense/nuttx/include/stdlib.h /spresense/nuttx/include/nuttx/mm/mm.h \
+ /spresense/nuttx/include/nuttx/addrenv.h \
+ /spresense/nuttx/include/nuttx/wqueue.h \
+ /spresense/nuttx/include/nuttx/wdog.h \
+ /spresense/nuttx/include/arch/arch.h \
+ /spresense/nuttx/include/nuttx/pgalloc.h \
+ /spresense/nuttx/include/nuttx/userspace.h \
+ /spresense/nuttx/include/pthread.h /spresense/nuttx/include/unistd.h \
+ /spresense/nuttx/include/nuttx/arch.h \
+ /spresense/nuttx/include/nuttx/cache.h \
+ /spresense/nuttx/include/nuttx/sched.h /spresense/nuttx/include/sched.h \
+ /spresense/nuttx/include/strings.h /spresense/nuttx/include/nuttx/irq.h \
+ /spresense/nuttx/include/arch/irq.h \
+ /spresense/nuttx/include/arch/chip/irq.h \
+ /spresense/nuttx/include/arch/armv7-m/irq.h \
+ /spresense/nuttx/include/arch/armv7-m/nvicpri.h \
+ /spresense/nuttx/include/arch/chip/chip.h \
+ /spresense/nuttx/include/nuttx/net/net.h \
+ /spresense/nuttx/include/sys/socket.h /spresense/nuttx/include/sys/uio.h \
+ /spresense/nuttx/include/malloc.h /spresense/nuttx/include/fcntl.h \
+ /spresense/nuttx/include/poll.h /spresense/nuttx/include/sys/poll.h \
+ /spresense/nuttx/include/arch/chip/gnss.h \
+ /spresense/nuttx/include/arch/chip/gnss_type.h
+# No files specified for dependency generation
+# No files specified for dependency generation
